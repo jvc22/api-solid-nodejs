@@ -1,4 +1,4 @@
-<h1><img align="center" height="28" src="/public/node-js.png"> Node.JS API SOLID</h1>
+<h1><img align="center" height="32" src="/public/node-js.png"> Node.JS API SOLID</h1>
 
 This back-end application is based on GymPass functional structure.
 
