@@ -1,8 +1,8 @@
-# Node.JS API SOLID
+<h1><img align="center" height="30" src="/public/node-js.png"> Node.JS API SOLID</h1>
 
 This back-end application is based on GymPass functional structure.
 
-## Functionl requirements
+## Functional requirements
 
 - [ ] It should be able for a user to register;
 - [ ] It should be able to authenticate the data provided by the user;
